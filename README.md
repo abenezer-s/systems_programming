@@ -1,0 +1,7 @@
+**Learning Systems Programming: A Personal Journey**
+
+While I was learning systems programming, I focused on building projects such as a Unix shell, a memory manager, and a symbol table. These projects were not just exercises in programming, but opportunities to develop my problem-solving skills and deepen my understanding of low-level programming concepts. The primary goal was to strengthen my ability to tackle complex problems and think critically about how systems work at a fundamental level.
+
+To achieve this, I relied on the book *Computer Systems: A Programmer's Perspective* by Randal Bryant and David O'Hallaron, which provided a strong theoretical foundation. Additionally, I supplemented my learning with extensive online research, using the internet as a resource to troubleshoot and understand the root causes of issues when things didn’t work as expected. Importantly, I deliberately avoided using tutorials, AI tools, or external guidance from others, instead choosing to work independently to truly test and expand my skills.
+
+Looking back, I can confidently say that I have achieved my goal. My programming skills have grown significantly, and I have gained a deeper understanding of how computers work under the hood. Through this hands-on approach, I've not only learned the technical aspects of systems programming but also honed my ability to problem-solve and think critically in challenging situations.
