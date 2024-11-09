@@ -1,6 +1,6 @@
 # de_comment
 
-The `de_comment` program is a simple C utility designed to extract the content of comments from C source code. It checks for properly closed comments and outputs the content of the comment if it is correctly closed. If a comment is not properly closed, the program will output the line containing the unclosed comment.
+The `de_comment` program is a simple C utility designed to extract the content of comments from C source code. It checks for properly closed comments and outputs the content of the source file with comments removed, if it is correctly closed. If a comment is not properly closed, the program will output the line containing the unclosed comment.
 
 ## Features
 
